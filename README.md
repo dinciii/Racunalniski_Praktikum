@@ -1,4 +1,4 @@
-   <!-- glavni naslov -->
+cd    <!-- glavni naslov -->
 # Računalniški praktikum
 <!-- Ta komentar bo skrit v markdownu.
      V tem besedilu so v komentarjih napisana navodila za reševanje. Pustite jih v datoteki. -->
